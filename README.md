@@ -58,4 +58,4 @@ admin.site.register(swiggyDB,swiggyDBAdmin)
 
 
 ## RESULT
-Thus the program for creating E-commerce website database using ORM hass been executed successfully
+Thus the program for creating Online food delivery website database using ORM has been executed successfully
